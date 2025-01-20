@@ -40,9 +40,9 @@
       <IDEState>
         <LayoutDisplay102Key>0</LayoutDisplay102Key>
         <DebugDefaultFont>1</DebugDefaultFont>
-        <DebugFont>Consolas|-9|   |0</DebugFont>
-        <CodeFont>Consolas|-9|   |0</CodeFont>
-        <CharFont>Consolas|-9|   |0</CharFont>
+        <DebugFont>Kawkab Mono|9|   |0</DebugFont>
+        <CodeFont>Kawkab Mono|9|   |0</CodeFont>
+        <CharFont>Kawkab Mono|9|   |0</CharFont>
       </IDEState>
       <Debug>False</Debug>
     </FileState>
