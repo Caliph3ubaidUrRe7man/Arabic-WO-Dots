@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>1</tab>
+    <tab>3</tab>
     <showhelp>1</showhelp>
     <path>D:\arabic_w_o_dots\arabic_w_o_dots.kpj</path>
   </ViewState>
@@ -49,10 +49,18 @@
     <FileState>
       <ID>id_2ba5134c641b8399aa49e8bcf1ebc7de</ID>
       <FullPath>D:\arabic_w_o_dots\source\arabic_w_o_dots.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
     </FileState>
     <FileState>
       <ID>id_f42e9bf7e882337b52ca1800f7e03cb4</ID>
       <FullPath>D:\arabic_w_o_dots\source\arabic_w_o_dots.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_b1d09503959b3376ee7f57243d44407c</ID>
+      <FullPath>D:\arabic_w_o_dots\source\Harmattan-Regular.ttf</FullPath>
     </FileState>
     <FileState>
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
@@ -82,6 +90,12 @@
   <MRU>
     <File>
       <ID>id_MRU0</ID>
+      <Filename>arabic_w_o_dots.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>D:\arabic_w_o_dots\source\arabic_w_o_dots.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
       <Filename>arabic_w_o_dots.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>D:\arabic_w_o_dots\source\arabic_w_o_dots.kmn</FullPath>
