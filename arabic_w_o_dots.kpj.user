@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>3</tab>
+    <tab>1</tab>
     <showhelp>1</showhelp>
     <path>D:\MEGA\arabic_w_o_dots\arabic_w_o_dots.kpj</path>
   </ViewState>
@@ -90,15 +90,15 @@
   <MRU>
     <File>
       <ID>id_MRU0</ID>
-      <Filename>arabic_w_o_dots.kps</Filename>
-      <FileType>.kps</FileType>
-      <FullPath>D:\MEGA\arabic_w_o_dots\source\arabic_w_o_dots.kps</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU1</ID>
       <Filename>arabic_w_o_dots.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>D:\MEGA\arabic_w_o_dots\source\arabic_w_o_dots.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>arabic_w_o_dots.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>D:\MEGA\arabic_w_o_dots\source\arabic_w_o_dots.kps</FullPath>
     </File>
   </MRU>
 </KeymanDeveloperProjectUser>
