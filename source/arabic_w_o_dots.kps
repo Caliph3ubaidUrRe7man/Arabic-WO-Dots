@@ -61,8 +61,8 @@
       <FileType>.md</FileType>
     </File>
     <File>
-      <Name>Harmattan-Regular.ttf</Name>
-      <Description>Font Harmattan</Description>
+      <Name>ArefRuqaa-Regular.ttf</Name>
+      <Description>Font Aref Ruqaa Regular</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.ttf</FileType>
     </File>
@@ -73,8 +73,8 @@
       <ID>arabic_w_o_dots</ID>
       <Version>1.0</Version>
       <RTL>True</RTL>
-      <OSKFont>Harmattan-Regular.ttf</OSKFont>
-      <DisplayFont>Harmattan-Regular.ttf</DisplayFont>
+      <OSKFont>ArefRuqaa-Regular.ttf</OSKFont>
+      <DisplayFont>ArefRuqaa-Regular.ttf</DisplayFont>
       <Languages>
         <Language ID="ar-Arab-001">Arabic (Arabic, World)</Language>
       </Languages>
