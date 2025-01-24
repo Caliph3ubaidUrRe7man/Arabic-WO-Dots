@@ -85,6 +85,12 @@ function Keyboard_arabic_w_o_dots()
                     "text": "ڨ",
                     "id": "U_06A8"
                   }
+                ],
+                "multitap": [
+                  {
+                    "text": "ق",
+                    "id": "U_0642"
+                  }
                 ]
               },
               {
@@ -93,11 +99,11 @@ function Keyboard_arabic_w_o_dots()
                 "sk": [
                   {
                     "text": "ڢ",
-                    "id": "U_06A6"
+                    "id": "U_06A2"
                   },
                   {
                     "text": "ڣ",
-                    "id": "U_06A2"
+                    "id": "U_06A3"
                   },
                   {
                     "text": "ڤ",
@@ -115,7 +121,7 @@ function Keyboard_arabic_w_o_dots()
                 "multitap": [
                   {
                     "text": "ف",
-                    "id": "U_06A3"
+                    "id": "U_0641"
                   }
                 ]
               },
@@ -542,27 +548,23 @@ function Keyboard_arabic_w_o_dots()
                 "sk": [
                   {
                     "text": "ػ",
-                    "id": "U_06AF"
-                  },
-                  {
-                    "text": "ؼ",
-                    "id": "U_06B0"
+                    "id": "U_063B"
                   },
                   {
                     "text": "ک",
-                    "id": "U_06B1"
+                    "id": "U_06A9"
                   },
                   {
                     "text": "ڪ",
-                    "id": "U_06B2"
+                    "id": "U_06AA"
                   },
                   {
                     "text": "ګ",
-                    "id": "U_06B3"
+                    "id": "U_06AB"
                   },
                   {
                     "text": "ڬ",
-                    "id": "U_06B4"
+                    "id": "U_06AC"
                   },
                   {
                     "text": "ڭ",
@@ -926,7 +928,7 @@ function Keyboard_arabic_w_o_dots()
                   },
                   {
                     "text": "ࣥ",
-                    "id": "U_08E3"
+                    "id": "U_08E5"
                   },
                   {
                     "text": "ࣦ",
@@ -938,7 +940,7 @@ function Keyboard_arabic_w_o_dots()
                   },
                   {
                     "text": "ࣨ",
-                    "id": "U_08E7"
+                    "id": "U_08E8"
                   },
                   {
                     "text": "ࣩ",
@@ -1753,11 +1755,12 @@ function Keyboard_arabic_w_o_dots()
                     "id": "U_2039"
                   },
                   {
-                    "text": "≤",
-                    "id": "U_2269"
+                    "text": "<",
+                    "id": "U_003C"
                   },
                   {
-                    "id": "T_new_3209"
+                    "text": "≤",
+                    "id": "U_2269"
                   }
                 ]
               },
@@ -1774,11 +1777,12 @@ function Keyboard_arabic_w_o_dots()
                     "id": "U_203A"
                   },
                   {
-                    "text": "≥",
-                    "id": "U_2265"
+                    "text": ">",
+                    "id": "U_003E"
                   },
                   {
-                    "id": "T_new_3217"
+                    "text": "≥",
+                    "id": "U_2265"
                   }
                 ]
               },
