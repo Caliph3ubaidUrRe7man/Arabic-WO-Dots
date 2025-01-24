@@ -40,9 +40,9 @@
       <IDEState>
         <LayoutDisplay102Key>0</LayoutDisplay102Key>
         <DebugDefaultFont>1</DebugDefaultFont>
-        <DebugFont>Gulzar|9|   |0</DebugFont>
-        <CodeFont>Gulzar|9|   |0</CodeFont>
-        <CharFont>Gulzar|9|   |0</CharFont>
+        <DebugFont>Aref Ruqaa|9|   |0</DebugFont>
+        <CodeFont>Aref Ruqaa|9|   |0</CodeFont>
+        <CharFont>Aref Ruqaa|9|   |0</CharFont>
       </IDEState>
       <Debug>True</Debug>
     </FileState>
@@ -85,6 +85,10 @@
     <FileState>
       <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
       <FullPath>D:\MEGA\arabic_w_o_dots\source\..\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_9313ab1ff80f4d458d9b75d60ea740b0</ID>
+      <FullPath>D:\MEGA\arabic_w_o_dots\source\Amiri-Regular.ttf</FullPath>
     </FileState>
   </FileStates>
   <MRU>

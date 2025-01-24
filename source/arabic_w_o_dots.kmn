@@ -8,11 +8,12 @@ store(&BITMAP) 'arabic_w_o_dots.ico'
 store(&VISUALKEYBOARD) 'arabic_w_o_dots.kvks'
 store(&LAYOUTFILE) 'arabic_w_o_dots.keyman-touch-layout'
 store(&KMW_RTL) '1'
-store(&TARGETS) 'windows macosx linux web desktop'
+store(&TARGETS) 'any'
 
 begin Unicode > use(main)
 
 group(main) using keys
++ [K_X] > '۔'
 + [SHIFT K_L] > '»'
 + [SHIFT K_M] > '﮶'
 + [K_SLASH] > '؟'
@@ -109,7 +110,6 @@ group(main) using keys
 + [K_BKSLASH] > '/'
 + [K_Z] > 'ـ'
 + [K_QUOTE] > '؛'
-+ [K_X] > 'ۆ'
 + [K_COMMA] > '،'
 + [K_C] > 'ئ'
 + [K_N] > 'ء'
