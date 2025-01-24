@@ -239,7 +239,7 @@ function Keyboard_arabic_w_o_dots()
                 "sk": [
                   {
                     "text": "ڈ",
-                    "id": "U_0690"
+                    "id": "U_0688"
                   },
                   {
                     "text": "ډ",
@@ -389,7 +389,7 @@ function Keyboard_arabic_w_o_dots()
                   },
                   "s": {
                     "text": "ىٕ",
-                    "id": "T_new_338"
+                    "id": "T_new_126"
                   }
                 },
                 "multitap": [
@@ -798,10 +798,6 @@ function Keyboard_arabic_w_o_dots()
                     "text": "ؤ",
                     "id": "U_0624"
                   },
-                  "s": {
-                    "text": "وٕ",
-                    "id": "T_new_336"
-                  },
                   "w": {
                     "text": "ࣳ",
                     "id": "U_08F3"
@@ -809,6 +805,10 @@ function Keyboard_arabic_w_o_dots()
                   "e": {
                     "text": "࣓",
                     "id": "U_08D3"
+                  },
+                  "s": {
+                    "text": "وٕ",
+                    "id": "T_new_140"
                   }
                 }
               },
@@ -1389,7 +1389,7 @@ function Keyboard_arabic_w_o_dots()
                 "multitap": [
                   {
                     "text": "#",
-                    "id": "T_new_4501"
+                    "id": "T_new_290"
                   }
                 ]
               },
@@ -1438,11 +1438,6 @@ function Keyboard_arabic_w_o_dots()
                     "text": "₽",
                     "id": "U_20BD"
                   }
-                ],
-                "multitap": [
-                  {
-                    "id": "T_new_378"
-                  }
                 ]
               },
               {
@@ -1470,7 +1465,7 @@ function Keyboard_arabic_w_o_dots()
                 "multitap": [
                   {
                     "text": "%",
-                    "id": "T_new_4486"
+                    "id": "U_0025"
                   }
                 ]
               },
@@ -1514,7 +1509,7 @@ function Keyboard_arabic_w_o_dots()
                   },
                   {
                     "text": "﷽",
-                    "id": "U_FE18"
+                    "id": "U_FDFD"
                   },
                   {
                     "text": "﷾",
@@ -1541,7 +1536,7 @@ function Keyboard_arabic_w_o_dots()
                 "multitap": [
                   {
                     "text": "*",
-                    "id": "T_new_4491"
+                    "id": "U_002A"
                   }
                 ]
               },
@@ -1825,7 +1820,7 @@ function Keyboard_arabic_w_o_dots()
                   },
                   {
                     "text": "≤",
-                    "id": "U_2269"
+                    "id": "U_2264"
                   }
                 ]
               },
