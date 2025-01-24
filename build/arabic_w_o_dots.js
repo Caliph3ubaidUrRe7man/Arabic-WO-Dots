@@ -52,6 +52,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_A",
                 "text": "ص",
+                "hint": "ض",
                 "sk": [
                   {
                     "text": "ڝ",
@@ -76,6 +77,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_R",
                 "text": "ٯ",
+                "hint": "ق",
                 "sk": [
                   {
                     "text": "ڧ",
@@ -96,6 +98,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_T",
                 "text": "ڡ",
+                "hint": "ف",
                 "sk": [
                   {
                     "text": "ڢ",
@@ -128,6 +131,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_Y",
                 "text": "ع",
+                "hint": "غ",
                 "sk": [
                   {
                     "text": "ڠ",
@@ -148,6 +152,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_U",
                 "text": "ه",
+                "hint": "ة",
                 "sk": [
                   {
                     "text": "ہ",
@@ -230,6 +235,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_O",
                 "text": "د",
+                "hint": "ذ",
                 "sk": [
                   {
                     "text": "ڈ",
@@ -278,6 +284,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_COLON",
                 "text": "ط",
+                "hint": "ظ",
                 "sk": [
                   {
                     "text": "ڟ",
@@ -299,6 +306,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_S",
                 "text": "س",
+                "hint": "ش",
                 "sk": [
                   {
                     "text": "ښ",
@@ -327,6 +335,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_D",
                 "text": "ى",
+                "hint": "ي",
                 "sk": [
                   {
                     "text": "ؠ",
@@ -465,6 +474,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_H",
                 "text": "ا",
+                "hint": "آ",
                 "sk": [
                   {
                     "text": "ٰ",
@@ -507,6 +517,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_J",
                 "text": "ں",
+                "hint": "ن",
                 "sk": [
                   {
                     "text": "ڹ",
@@ -638,6 +649,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_COMMA",
                 "text": "،",
+                "hint": ",",
                 "sk": [
                   {
                     "text": "ً",
@@ -674,6 +686,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_V",
                 "text": "ر",
+                "hint": "ز",
                 "sk": [
                   {
                     "text": "ڑ",
@@ -834,6 +847,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_SLASH",
                 "text": "؟",
+                "hint": "?",
                 "sk": [
                   {
                     "text": "ٖ",
@@ -909,6 +923,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "K_QUOTE",
                 "text": "؛",
+                "hint": ";",
                 "sk": [
                   {
                     "text": "ؘ",
@@ -979,12 +994,11 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "U_0031",
                 "text": "1",
+                "hint": "١",
                 "sk": [
                   {
-                    "id": "T_new_2886"
-                  },
-                  {
-                    "id": "T_new_2887"
+                    "text": "۱",
+                    "id": "U_06F1"
                   },
                   {
                     "text": "½",
@@ -1032,17 +1046,22 @@ function Keyboard_arabic_w_o_dots()
                     "text": "₁",
                     "id": "U_2081"
                   }
-                }
+                },
+                "multitap": [
+                  {
+                    "text": "١",
+                    "id": "U_0661"
+                  }
+                ]
               },
               {
                 "id": "U_0032",
                 "text": "2",
+                "hint": "٢",
                 "sk": [
                   {
-                    "id": "T_new_2892"
-                  },
-                  {
-                    "id": "T_new_2893"
+                    "text": "۲",
+                    "id": "U_06F2"
                   },
                   {
                     "text": "⅔",
@@ -1062,17 +1081,22 @@ function Keyboard_arabic_w_o_dots()
                     "text": "₂",
                     "id": "U_2082"
                   }
-                }
+                },
+                "multitap": [
+                  {
+                    "text": "٢",
+                    "id": "U_0662"
+                  }
+                ]
               },
               {
                 "id": "U_0033",
                 "text": "3",
+                "hint": "٣",
                 "sk": [
                   {
-                    "id": "T_new_2895"
-                  },
-                  {
-                    "id": "T_new_2896"
+                    "text": "۳",
+                    "id": "U_06F3"
                   },
                   {
                     "text": "¾",
@@ -1096,17 +1120,22 @@ function Keyboard_arabic_w_o_dots()
                     "text": "₃",
                     "id": "U_2083"
                   }
-                }
+                },
+                "multitap": [
+                  {
+                    "text": "٣",
+                    "id": "U_0663"
+                  }
+                ]
               },
               {
                 "id": "U_0034",
                 "text": "4",
+                "hint": "٤",
                 "sk": [
                   {
-                    "id": "T_new_2889"
-                  },
-                  {
-                    "id": "T_new_2890"
+                    "text": "۴",
+                    "id": "U_06F4"
                   },
                   {
                     "text": "⅘",
@@ -1122,17 +1151,22 @@ function Keyboard_arabic_w_o_dots()
                     "text": "₄",
                     "id": "U_2084"
                   }
-                }
+                },
+                "multitap": [
+                  {
+                    "text": "٤",
+                    "id": "U_0664"
+                  }
+                ]
               },
               {
                 "id": "U_0035",
                 "text": "5",
+                "hint": "٥",
                 "sk": [
                   {
-                    "id": "T_new_2901"
-                  },
-                  {
-                    "id": "T_new_2902"
+                    "text": "۵",
+                    "id": "U_06F5"
                   },
                   {
                     "text": "⅚",
@@ -1152,20 +1186,22 @@ function Keyboard_arabic_w_o_dots()
                     "text": "₅",
                     "id": "U_2085"
                   }
-                }
+                },
+                "multitap": [
+                  {
+                    "text": "٥",
+                    "id": "U_0665"
+                  }
+                ]
               },
               {
                 "id": "U_0036",
                 "text": "6",
+                "hint": "٦",
                 "sk": [
                   {
-                    "id": "T_new_2910"
-                  },
-                  {
-                    "id": "T_new_2911"
-                  },
-                  {
-                    "id": "T_new_2912"
+                    "text": "۶",
+                    "id": "U_06F6"
                   }
                 ],
                 "flick": {
@@ -1177,17 +1213,22 @@ function Keyboard_arabic_w_o_dots()
                     "text": "₆",
                     "id": "U_2086"
                   }
-                }
+                },
+                "multitap": [
+                  {
+                    "text": "٦",
+                    "id": "U_0666"
+                  }
+                ]
               },
               {
                 "id": "U_0037",
                 "text": "7",
+                "hint": "٧",
                 "sk": [
                   {
-                    "id": "T_new_2913"
-                  },
-                  {
-                    "id": "T_new_2914"
+                    "text": "۷",
+                    "id": "U_06F7"
                   },
                   {
                     "text": "⅞",
@@ -1203,20 +1244,22 @@ function Keyboard_arabic_w_o_dots()
                     "text": "₇",
                     "id": "U_2087"
                   }
-                }
+                },
+                "multitap": [
+                  {
+                    "text": "٧",
+                    "id": "U_0667"
+                  }
+                ]
               },
               {
                 "id": "U_0038",
                 "text": "8",
+                "hint": "٨",
                 "sk": [
                   {
-                    "id": "T_new_2928"
-                  },
-                  {
-                    "id": "T_new_2929"
-                  },
-                  {
-                    "id": "T_new_2930"
+                    "text": "۸",
+                    "id": "U_06F8"
                   }
                 ],
                 "flick": {
@@ -1228,20 +1271,22 @@ function Keyboard_arabic_w_o_dots()
                     "text": "₈",
                     "id": "U_2088"
                   }
-                }
+                },
+                "multitap": [
+                  {
+                    "text": "٨",
+                    "id": "U_0668"
+                  }
+                ]
               },
               {
                 "id": "U_0039",
                 "text": "9",
+                "hint": "٩",
                 "sk": [
                   {
-                    "id": "T_new_2931"
-                  },
-                  {
-                    "id": "T_new_2932"
-                  },
-                  {
-                    "id": "T_new_2933"
+                    "text": "۹",
+                    "id": "U_06F9"
                   }
                 ],
                 "flick": {
@@ -1253,20 +1298,22 @@ function Keyboard_arabic_w_o_dots()
                     "text": "₉",
                     "id": "U_2089"
                   }
-                }
+                },
+                "multitap": [
+                  {
+                    "text": "٩",
+                    "id": "U_0669"
+                  }
+                ]
               },
               {
                 "id": "U_0030",
                 "text": "0",
+                "hint": "٠",
                 "sk": [
                   {
-                    "id": "T_new_2934"
-                  },
-                  {
-                    "id": "T_new_2935"
-                  },
-                  {
-                    "id": "T_new_2936"
+                    "text": "۰",
+                    "id": "U_06F0"
                   }
                 ],
                 "flick": {
@@ -1278,7 +1325,13 @@ function Keyboard_arabic_w_o_dots()
                     "text": "₀",
                     "id": "U_2080"
                   }
-                }
+                },
+                "multitap": [
+                  {
+                    "text": "٠",
+                    "id": "U_0660"
+                  }
+                ]
               }
             ]
           },
@@ -1310,6 +1363,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "U_0600",
                 "text": "؀",
+                "hint": "#",
                 "sk": [
                   {
                     "text": "؅",
@@ -1342,6 +1396,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "U_FDFC",
                 "text": "﷼",
+                "hint": "$",
                 "sk": [
                   {
                     "text": "$",
@@ -1383,11 +1438,17 @@ function Keyboard_arabic_w_o_dots()
                     "text": "₽",
                     "id": "U_20BD"
                   }
+                ],
+                "multitap": [
+                  {
+                    "id": "T_new_378"
+                  }
                 ]
               },
               {
                 "id": "U_066A",
                 "text": "٪",
+                "hint": "%",
                 "sk": [
                   {
                     "text": "‱",
@@ -1476,6 +1537,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "U_066D",
                 "text": "٭",
+                "hint": "*",
                 "multitap": [
                   {
                     "text": "*",
@@ -1486,6 +1548,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "U_FD3E",
                 "text": "﴾",
+                "hint": "(",
                 "sk": [
                   {
                     "text": "(",
@@ -1514,6 +1577,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "U_FD3F",
                 "text": "﴿",
+                "hint": ")",
                 "sk": [
                   {
                     "text": ")",
@@ -1628,6 +1692,7 @@ function Keyboard_arabic_w_o_dots()
               {
                 "id": "U_002D",
                 "text": "-",
+                "hint": "−",
                 "sk": [
                   {
                     "text": "_",
