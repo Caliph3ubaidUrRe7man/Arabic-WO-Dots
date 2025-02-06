@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>1</tab>
+    <tab>3</tab>
     <showhelp>1</showhelp>
     <path>D:\MEGA\arabic_w_o_dots\arabic_w_o_dots.kpj</path>
   </ViewState>
@@ -86,19 +86,51 @@
       <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
       <FullPath>D:\MEGA\arabic_w_o_dots\source\..\LICENSE.md</FullPath>
     </FileState>
+    <FileState>
+      <ID>id_74b64e826ed935bfb9f92579d8dd082d</ID>
+      <FullPath>D:\MEGA\arabic_w_o_dots\source\help\arabic_w_o_dots.php</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f55b94adfac38e2122cf5598968010d9</ID>
+      <FullPath>D:\MEGA\arabic_w_o_dots\source\help\typing-guide.jpg</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_9d0e5b4e161ab742beb7baaa3ee15d9d</ID>
+      <FullPath>D:\MEGA\arabic_w_o_dots\source\help\typing-guide-desktop.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_9d1a6340637caadc1e2a5439ac5c7082</ID>
+      <FullPath>D:\MEGA\arabic_w_o_dots\source\help\typing-guide-desktop-alternate.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_51f4bf8df7b33ae5f2bedaca725a7b5e</ID>
+      <FullPath>D:\MEGA\arabic_w_o_dots\source\help\typing-guide-desktop-alternate-shifted.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_2ba650c0122ca4db165e628b86191042</ID>
+      <FullPath>D:\MEGA\arabic_w_o_dots\source\help\typing-guide-desktop-shifted.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8ce897881b099c30d594323d15a1a8d0</ID>
+      <FullPath>D:\MEGA\arabic_w_o_dots\source\help\typing-guide-numbers.jpg</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_93d84126c9ecb80d7e4aafc564928380</ID>
+      <FullPath>D:\MEGA\arabic_w_o_dots\source\help\typing-guide-symbols.jpg</FullPath>
+    </FileState>
   </FileStates>
   <MRU>
     <File>
       <ID>id_MRU0</ID>
-      <Filename>arabic_w_o_dots.kmn</Filename>
-      <FileType>.kmn</FileType>
-      <FullPath>D:\MEGA\arabic_w_o_dots\source\arabic_w_o_dots.kmn</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU1</ID>
       <Filename>arabic_w_o_dots.kps</Filename>
       <FileType>.kps</FileType>
       <FullPath>D:\MEGA\arabic_w_o_dots\source\arabic_w_o_dots.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>arabic_w_o_dots.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>D:\MEGA\arabic_w_o_dots\source\arabic_w_o_dots.kmn</FullPath>
     </File>
   </MRU>
 </KeymanDeveloperProjectUser>
